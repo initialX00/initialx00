@@ -5,7 +5,7 @@
 |Web Front_end|<img src="https://camo.githubusercontent.com/63ce25bbb454213b0d70cf07a16157f900c64751068755d0ed379b5a9b164eb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3433424246463f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"/> |
 |Web Back-End|<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JSP-FF4000?style=for-the-badge&logo=JSP&logoColor=white">|
 |DataBase|<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">|
-|etc|<img src="https://img.shields.io/badge/Vegas-1A1A1A?style=for-the-badge&logo=Vegas&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-1A1A1A?style=for-the-badge&logo=Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Audition-1A1A1A?style=for-the-badge&logo=AdobeAudition&logoColor=white">|
+|etc|<img src="https://img.shields.io/badge/Vegas-1A1A1A?style=for-the-badge&logo=Vegas&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-1A1A1A?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Audition-1A1A1A?style=for-the-badge&logo=AdobeAudition&logoColor=white">|
 
 
 
